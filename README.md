@@ -23,10 +23,11 @@ The Convolutional Neural Network (CNN) model used for this project consists of t
 The performance of the model was evaluated using accuracy and loss metrics, plotted alongside a confusion matrix and ROC curves for each class.
 
 ### Model Accuracy and Loss
-![Accuracy and Loss](images/accuracy_loss_plot.jpg)
-
+- ![Accuracy](https://i.ibb.co/tmjgCJm/ma.png)
+- ![Test Loss](https://i.ibb.co/hDGgcty/mb.png)
+- ![Test Accuracy](https://i.ibb.co/hydrsVv/mc.png)
 ### Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.jpg)
+- ![Confusion Matrix](https://i.ibb.co/dLkdZDR/md.png)
 
 ### ROC Curve
-![ROC Curve](images/roc_curve.jpg)
+- ![ROC Curve](https://i.ibb.co/6nmwZRR/me.png)
